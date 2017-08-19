@@ -1,0 +1,14 @@
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\BurtsonUnitTests.deps.json
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\BurtsonUnitTests.runtimeconfig.json
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\BurtsonUnitTests.runtimeconfig.dev.json
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\BurtsonUnitTests.dll
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\BurtsonUnitTests.pdb
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\Burtson.dll
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\bin\Debug\netcoreapp1.1\Burtson.pdb
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\obj\Debug\netcoreapp1.1\BurtsonUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\obj\Debug\netcoreapp1.1\BurtsonUnitTests.AssemblyInfo.cs
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\obj\Debug\netcoreapp1.1\BurtsonUnitTests.dll
+C:\Users\brett\Desktop\PCLS\BurtsonUnitTests\obj\Debug\netcoreapp1.1\BurtsonUnitTests.pdb
